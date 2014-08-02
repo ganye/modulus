@@ -1,0 +1,3 @@
+
+class ModulusError(Exception):
+    pass
